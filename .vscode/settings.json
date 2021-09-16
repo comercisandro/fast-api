@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/sandro/Documentos/ialab/fastapi/venv-fastapi/bin/python3.9",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
